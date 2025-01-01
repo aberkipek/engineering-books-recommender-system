@@ -2,3 +2,5 @@
 SENG413-2
 
 src/.*
+
+/data/nltk_data/
